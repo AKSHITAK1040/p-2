@@ -1,7 +1,7 @@
 streamlit
-tensorflow
-numpy
+tensorflow==2.10.0
 opencv-python
-mediapipe
 streamlit-webrtc
-av
+mediapipe
+numpy
+joblib
